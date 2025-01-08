@@ -1,0 +1,9 @@
+asgiref
+certifi
+cloudinary
+django
+djangorestframework
+pip
+sqlparse
+tzdata
+urllib3
